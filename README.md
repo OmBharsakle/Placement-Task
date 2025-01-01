@@ -1,35 +1,32 @@
-# placement_task_day
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Placement Task's
 
 
-###
-<h1></h1>
-<h3 align="center"><i>Day 1</i></h3>
-<h1></h1>
+## Task No.1
+
+
 <div align="center">
-<img src="https://github.com/Prafulpatnecha/placement_task_day/blob/master/image1.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/placement_task_day/blob/master/image2.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/placement_task_day/blob/master/image3.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/placement_task_day/blob/master/image4.png" height=450px hspace=20>
-
+   <img src="https://github.com/user-attachments/assets/85f7a011-0594-46a8-b834-4e15a3273f78" height="500">
+   <img src="https://github.com/user-attachments/assets/df552a51-8be2-4b4e-a856-dba1c29aeef5" height="500">
+   <img src="https://github.com/user-attachments/assets/cc38cc29-c1c4-44c8-8289-79838197a27b" height="500">
+   <img src="https://github.com/user-attachments/assets/ca2e1a48-5d19-44a1-bf4f-749e8b9ca4f5" height="500">
+  
 </div>
 
-<h1></h1>
+---
+
+# 📹 Demo Video
+
 <div align="center">
-<a href="https://drive.google.com/file/d/1_Iq3rx3geEQzJ3eQgdPlZ1Bb1tz4R6Px/view?usp=sharing">-> Video Link <-</a>
+
+
+
+
+
+https://github.com/user-attachments/assets/9b5d9b02-b392-4761-be3c-e7985c5b74d7
+
+
+
+
+
+
 </div>
-<h1></h1>
